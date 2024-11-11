@@ -33,8 +33,8 @@ Welcome to my GitHub! I'm **Anubhav Shavaran**, a passionate Full-Stack Develope
 ---
 
 ### 🔭 Currently Exploring
-- Building **real-time web applications** with MERN stack and Socket.io
-- Diving into **cloud and DevOps tools** like Kubernetes, Docker, and Jenkins
+- Developing dynamic and interactive applications that create engaging user experiences
+- Expanding knowledge in infrastructure automation and efficient deployment processes for scalable applications
 
 ---
 

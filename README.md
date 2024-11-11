@@ -9,8 +9,9 @@ Welcome to my GitHub! I'm **Anubhav Shavaran**, a passionate Full-Stack Develope
 ### 💻 Things I Code With
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,kotlin,php,cpp,java,golang,react,reactnative,expo,nodejs,expressjs,fastapi,fiber,mysql,postgresql,prisma,mongodb" />
+<!--   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> -->
+<!--   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -27,7 +28,7 @@ Welcome to my GitHub! I'm **Anubhav Shavaran**, a passionate Full-Stack Develope
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Agile-0277BD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile-0277BD?style=for-the-badge" /> -->
 </p>
 
 ---

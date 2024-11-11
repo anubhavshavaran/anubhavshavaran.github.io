@@ -1,4 +1,7 @@
 # Hey there! 👋
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 Welcome to my GitHub! I'm **Anubhav Shavaran**, a passionate Full-Stack Developer. I love building innovative solutions and diving deep into the latest web and app technologies.
 
 ---

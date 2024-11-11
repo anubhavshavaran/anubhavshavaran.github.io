@@ -1,5 +1,5 @@
 # Hey there! 👋
-Welcome to my GitHub! I'm **Anubhav Shavaran**, a passionate Full-Stack Developer based in Pune, India. I love building innovative solutions and diving deep into the latest web and app technologies.
+Welcome to my GitHub! I'm **Anubhav Shavaran**, a passionate Full-Stack Developer. I love building innovative solutions and diving deep into the latest web and app technologies.
 
 ---
 

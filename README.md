@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm **Anubhav Shavaran**, a passionate Full-Stack Develope
 
 ---
 
-### 💻 Things I Code With
+### 💻 Tech I Tinker With
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
